@@ -7,3 +7,7 @@ Dockerfile.*     text eol=lf
 
 # Binary model files: never touch line endings or diff them as text.
 *.pkl            binary
+
+
+# Don't count notebooks in the language stats
+*.ipynb linguist-detectable=false
