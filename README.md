@@ -241,7 +241,7 @@ Credit-Risk-Assesment-using-SHAP/
 ## Run it locally (Windows / PowerShell)
 
 ```powershell
-git clone https://github.com/Akashbal1209/Credit-Risk-Assesment-using-SHAP.git
+git clone https://github.com/Akashbaloni/Credit-Risk-Assesment-using-SHAP.git
 cd Credit-Risk-Assesment-using-SHAP
 python -m venv venv
 .\venv\Scripts\Activate.ps1
